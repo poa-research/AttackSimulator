@@ -2,7 +2,8 @@
 
 The experiment is conducted with 9 mining nodes.
 
-![avatar](overview.png)
+<img src="overview.png" alt="drawing" width="400"/>
+
 
 8 nodes are honest. 
 - Compile the poa client without any modifications.
